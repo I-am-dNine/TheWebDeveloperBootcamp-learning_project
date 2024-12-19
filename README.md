@@ -1,4 +1,4 @@
-# Web Developer Bootcamp : Learning Project Collection （Bootstrap 4，CSS，DOM，jQuery）
+# Web Developer Bootcamp : Learning Collection （Bootstrap 4，CSS，DOM，jQuery）
 
 https://i-am-dnine.github.io/TheWebDeveloperBootcamp-learning_project/
 
